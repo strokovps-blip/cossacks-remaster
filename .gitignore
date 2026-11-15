@@ -1,0 +1,14 @@
+*.dll
+*.lib
+*.exp
+*.obj
+*.exe
+*.log
+*.GSC
+
+*.dis
+*.hdr
+profile_*.txt
+
+*.npz
+*.pkl
